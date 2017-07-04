@@ -46,7 +46,7 @@
       return {
         browserWidth: null,
         carouselWidth: null,
-        currentPage: 0,
+        //currentPage: 0,
         dragOffset: 0,
         dragStartX: 0,
         mousedown: false,
@@ -57,6 +57,10 @@
       autoplay
     ],
     props: {
+      currentPage: {
+        type: Number,
+        default: 0
+      },
       /**
        * Slide transition easing
        * Any valid CSS transition easing accepted

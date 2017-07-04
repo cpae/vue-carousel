@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SSENSE/vue-carousel.git"
+    "url": "git+ssh://git@github.com/cpae/vue-carousel.git"
   },
   "keywords": [
     "Vue",
@@ -30,9 +30,9 @@
   "author": "todd.beauchamp@ssense.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ssense/vue-carousel/issues"
+    "url": "https://github.com/cpae/vue-carousel/issues"
   },
-  "homepage": "https://github.com/ssense/vue-carousel#readme",
+  "homepage": "https://github.com/cpae/vue-carousel#readme",
   "devDependencies": {
     "babel-core": "^6.21.0",
     "babel-eslint": "^7.1.1",
